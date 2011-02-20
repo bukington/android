@@ -215,7 +215,7 @@
 
   <project path="external/klogtail" name="nopy/android_external_klogtail" remote="github" revision="master" />
   <project path="packages/apps/GaospConf" name="Obihoernchen/gaosp_packages_apps_GaospConf" remote="github" revision="release" />
-  <project path="external/screen" name="jahrome/screen-android" remote="github" revision="jahrome" />
+  <project path="external/screen" name="bukington/screen-android" remote="github" revision="jahrome" />
 
 </manifest>
 
